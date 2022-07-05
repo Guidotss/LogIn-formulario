@@ -1,0 +1,38 @@
+#login.card {
+  padding: 20px;
+  width: 50%;
+  height: 400px;
+  left: 26%;
+  margin-top: 13%;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+#login.card #login-Body.card-body {
+  text-align: center;
+}
+
+#login.card #login-Body.card-body .card-title {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif !important;
+}
+
+#login.card #login-Body.card-body #login-form {
+  position: relative;
+  margin-top: 12%;
+  margin-left: 2%;
+}
+
+#login.card #login-Body.card-body #login-form input {
+  width: 400px !important;
+  margin-bottom: 10px;
+}
+
+#login.card #login-Body.card-body #login-form button {
+  margin-top: 20px;
+}
+
+#log-out-button a {
+  text-decoration: none;
+}
+/*# sourceMappingURL=estilos.css.map */
